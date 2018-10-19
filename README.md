@@ -7,4 +7,4 @@ Decision tree learning is a menthod for approximating discrete-valued target fun
 Decision tree classify instances by sorting them down the tree from the root to some leaf node, which provides the classification of the instance. Each node in the tree specifies a test of some attribute of the instance, and each branch descending from that node corresponds to one of the possible values for this attribute. An instance is classified by starting at the root node of the tree, testing the attribute specified by this node, then moving down the tree branch corresponding to the value of the attribute in the given example. This process is then repeated for the subtree rooted at the new node.
 
 ## Decision Tree Representation For PlayTennis Dataset
-![alt text](https://github.com/ggrao1/decision-tree/blob/master/decision_tree.jpeg)
+![alt text](https://github.com/ggrao1/decision-tree/blob/master/decision_tree.jpeg){:height="60%" width="60%"}
