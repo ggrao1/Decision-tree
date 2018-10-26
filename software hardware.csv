@@ -1,0 +1,11 @@
+Sl No.,Age,Competition,Type,Profit
+1,Old,Yes,SW,No
+2,Old,No,SW,No
+3,Old,No,HW,No
+4,Mid,Yes,SW,No
+5,Mid,Yes,HW,No
+6,Mid,No,HW,Yes
+7,Mid,No,SW,Yes
+8,New,Yes,SW,Yes
+9,New,No,HW,Yes
+10,New,No,SW,Yes
