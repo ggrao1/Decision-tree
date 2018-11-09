@@ -9,6 +9,6 @@ Decision tree classify instances by sorting them down the tree from the root to 
 ## Decision Tree Representation For PlayTennis Dataset
 ![alt text](https://github.com/ggrao1/decision-tree/blob/master/decision_tree.jpeg)
 
-##Dataset's
+## Dataset's
 Dataset for this program is "PlayTennis" that can be found in play.csv file
 Another dataset used to test is "software hardware" in "software hardware.csv" file
