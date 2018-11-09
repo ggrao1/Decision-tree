@@ -1,4 +1,4 @@
-# Decision-tree
+# Decision tree VTU Lab program
 
 ## Introduction
 Decision tree learning is a menthod for approximating discrete-valued target functions, in which the learned function is represented by a decision tree. Learned trees can also be re-represented as sets of if-then rules to improve human readability. These learning methods are among the most popular of inductive inference algorithms and have been successfully applied to a broad range of tasks from learning to diagnose medical cases to learning to assess credit risk of loan applicants.
@@ -8,3 +8,7 @@ Decision tree classify instances by sorting them down the tree from the root to 
 
 ## Decision Tree Representation For PlayTennis Dataset
 ![alt text](https://github.com/ggrao1/decision-tree/blob/master/decision_tree.jpeg)
+
+##Dataset's
+Dataset for this program is "PlayTennis" that can be found in play.csv file
+Another dataset used to test is "software hardware" in "software hardware.csv" file
